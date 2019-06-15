@@ -12,3 +12,11 @@ Open a new terminal within the project directory and run:
 ### elastic beanstalk URL
 
 [url](imagefilter-ban-dev.us-west-1.elasticbeanstalk.com)
+
+### Elastic Beanstalk Application Dashboard Screenshot
+
+![elastic beanstalk Dashboard](elasticbeanstalk.png)
+
+### URL for Github Repo.
+
+[URL](https://github.com/vidban/ImageFilterServiceAWS)
